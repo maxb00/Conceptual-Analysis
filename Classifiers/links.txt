@@ -1,0 +1,16 @@
+https://github.com/leemengtaiwan/cat-recognition-train - cats vs dogs
+https://github.com/murugeshmanthiramoorthi/Cat-vs-No_Cat-Classifier - cat or not cat
+https://github.com/naivoder/ElephantDetector - african or asian elephant
+https://github.com/minto5050/NSFW-detection - nude or not
+https://github.com/VPanjeta/hotdog-or-not-hotdog - hotdog or not
+https://github.com/prash29/Hotdog-Not-Hotdog - hotdog or not
+https://github.com/Livin21/Not_Potato - potato or not
+https://github.com/deep-insights-ai/covid-19-classifier - COVID or not
+https://github.com/arryaaas/RPS-Classification-CNN - rock paper or scissors
+https://github.com/btphan95/greenr-train - dandelion or not
+https://github.com/salekd/santa - santa or not santa
+
+https://www.kaggle.com/code/mehmetsukru250/oranges-grapefruit-with-artificial-neural-network
+https://www.kaggle.com/code/gpiosenka/efficientnetb3-f1-test-score-87
+https://www.kaggle.com/code/accountstatus/cnn-model-training-using-masking
+https://www.kaggle.com/code/cuauhtemoccontreras/tennis-ball-detection
