@@ -1,0 +1,3 @@
+gpt/gpt_babbage.txt filter=lfs diff=lfs merge=lfs -text
+gpt/gpt_ada.txt filter=lfs diff=lfs merge=lfs -text
+opt/1_3B.txt filter=lfs diff=lfs merge=lfs -text
